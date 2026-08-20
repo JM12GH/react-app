@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "John_123"
+    },
+    {
+      "id": "2",
+      "name": "Amy Smith",
+      "email": "amy@example.com",
+      "password": "Amy_123"
+    },
+    {
+      "id": "3",
+      "name": "Sam Smith",
+      "email": "sam@example.com",
+      "password": "Sam_123"
+    },
+    {
+      "id": "4",
+      "name": "Eli Doe",
+      "email": "eli@example.com",
+      "password": "Eli_123"
+    },
+    {
+      "name": "Claire Dine",
+      "email": "claire@example.com",
+      "password": "Claire_123",
+      "id": "NSslRi9QeKw"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
